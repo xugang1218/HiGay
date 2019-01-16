@@ -1,2 +1,2 @@
 # HiGay
-say hello to github
+say hello to github at first
